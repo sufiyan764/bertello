@@ -185,6 +185,7 @@ footer {
     gap: 20px;
     margin: 0 auto;
     padding: 80px;
+    padding-top: 0;
   }
   
   .product-card {
