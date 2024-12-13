@@ -283,6 +283,24 @@ footer {
     text-align: left;
   }
 
+  .footer-content {
+    display: flex;
+    justify-content: space-around;
+  }
+
+  .footer-content nav ul {
+    flex-direction: column;
+  }
+
+  .footer-content nav ul li a {
+    color: var(--secondary);
+  }
+
+  .contact {
+    display: flex;
+    flex-direction: column;
+  }
+
   @media (max-width: 1200px) {
     .product-grid {
       grid-template-columns: repeat(3, 1fr);
@@ -292,6 +310,38 @@ footer {
   @media screen and (max-width: 768px) {
     .product-grid {
       grid-template-columns: repeat(2, 1fr);
+    }
+
+    nav ul {
+      flex-direction: column;
+    }
+
+    nav ul li a {
+      font-size: 1.2rem;
+    }
+
+    .banner h1 {
+      font-size: 1.5rem;
+    }
+
+    .intro {
+      flex-wrap: wrap;
+    }
+
+    .intro p {
+      padding: 0 20px;
+    }
+
+    .recipe-card {
+      flex-direction: column;
+    }
+
+    .recipe-method {
+      width: 100%;
+    }
+
+    .footer-content {
+      flex-direction: column;
     }
   }
 
