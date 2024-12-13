@@ -1,0 +1,10 @@
+# robots.txt for https://sufiyan764.github.io/bertello/
+
+# Allow all robots complete access
+User-agent: *
+
+# Allow access to specific directories
+Allow: /images/
+
+# Sitemap location (optional but recommended for SEO)
+Sitemap: https://sufiyan764.github.io/bertello/sitemap.xml

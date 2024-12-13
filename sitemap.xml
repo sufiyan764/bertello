@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+
+<url>
+  <loc>https://sufiyan764.github.io/bertello/</loc>
+  <lastmod>2024-12-13T17:56:30+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://sufiyan764.github.io/bertello/index.html</loc>
+  <lastmod>2024-12-13T17:56:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sufiyan764.github.io/bertello/ovens.html</loc>
+  <lastmod>2024-12-13T17:56:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sufiyan764.github.io/bertello/pizza_dough.html</loc>
+  <lastmod>2024-12-13T17:56:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sufiyan764.github.io/bertello/recipes.html</loc>
+  <lastmod>2024-12-13T17:56:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sufiyan764.github.io/bertello/how_to.html</loc>
+  <lastmod>2024-12-13T17:56:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
